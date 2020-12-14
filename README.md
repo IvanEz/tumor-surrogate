@@ -6,7 +6,7 @@ Tensorflow 1.14
 
 Tested with conda (the environment file to create a conda environment with necessary packages is provided as yml)
 
-     conda env create --name envname python=3.6 --file=environments.yml
+     conda env create --name envname python=3.6 --file=environment.yml
 
 
 # Usage
