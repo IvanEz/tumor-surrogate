@@ -1,4 +1,5 @@
-# Tumor Surrogate Pytorch
+# Geometry-aware neural solver for fast Bayesian calibration of brain tumor models (Pytorch implementation)
+
 
 ## Installation
 - Python 3.6
